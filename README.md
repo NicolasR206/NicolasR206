@@ -4,7 +4,7 @@
 - 💞️ Estoy buscando colaborar en mi aprendizaje y todo el conocimiento que pueda adquirir
 - 📫 Cómo llegar a mí: nicolasrojasr206@gmail.com
 - 😄 Pronombres: Nico
-- ⚡ Dato curioso: Muchos :D
+- ⚡ Datos curiosos: Muchos :D
 
 <!---
 NicolasR206/NicolasR206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
